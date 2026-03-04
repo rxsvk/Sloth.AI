@@ -1,1 +1,1 @@
-Just a test prototype version.
+Just a test prototype version (v1.5)
